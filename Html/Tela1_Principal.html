@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Simulador de Depesas</title> <!-- Título No Navegador-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--Meu Css-->
+    <link href="../Css/Meu_Estilo.css" rel="stylesheet" />
+</head>
+<body>
+    <h1 id="Titulo1">Dk_JhonMelo - Controle Financeiro</h1>
+    <br />
+    <div class="conteudo" style="margin-top:40px">
+        <div id="Div1_Cadastro">
+            <form class="Formulario">
+                <fieldset class="Base_Field">
+                    <legend style="font-weight:bold;color:#09572f"> // Adicione as informações //</legend>
+                    <div style="margin-bottom:5px">
+                        <label class="Lbl1">Escolha o Tipo:</label>
+                        <select id="Selecao1">
+                            <option value="R">Receita</option>
+                            <option value="D">Despesa</option>
+                        </select>
+                    </div>
+                    <fieldset>
+                        <div>
+                            <label class="Lbl1" for="nome1">Descrição do Item:</label>
+                            <input id="DescricaoItem" class="campo" style="width:300px" type="text" placeholder="Digite Aqui ...">
+                            <label class="Lbl1">Qtde:</label>
+                            <select id="Selecao_Qtde" class="campo" style="font-size:15px;border-color:#000000;border-radius:7px">
+                                <option value="1" >1</option>
+                                <option value="2" >2</option>
+                                <option value="3" >3</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="Lbl1">Valor Unitário:</label>
+                            <input class ="campo" id="V_Unt" onkeyup="EmMoeda(this);" style="width:100px;height:20px" type="text" placeholder="Digite Aqui ...">&nbsp;
+                            <label class="Lbl1">Valor Total:</label>
+                            <input class="campo" id="V_Total" style="width:108px" type="text" placeholder="A calcular ..." disabled>
+                        </div>
+                    </fieldset> <!-- &nbsp; -->
+                    <table>
+                        <tr>
+                            <td>
+                                <button id="BtnCalcula" class="botao1">Calcular</button>
+                                <button id="BtnLimpa" class="botao1">Limpar</button>
+                                <button id="BtnAdiciona" class="botao1">Adicionar</button>
+                            </td>
+                        </tr>
+                    </table>
+                </fieldset>
+            </form>
+        </div>
+        <br />
+        <div id="Div2_Resultado">
+            <form id="FormResultado" class="Formulario">
+                <fieldset class="Base_Field">
+                    <legend style="font-weight:bold;color:#900d0d"> // Resultado Final //</legend>
+                    <div class="">
+                        <table class="tabela" style="table-layout:fixed;text-align:center">
+                            <thead>
+                                <tr class="item1" name="primeiraLinha">
+                                    <th>#</th>
+                                    <th>Id</th>
+                                    <th>Tipo</th>
+                                    <th style="width:250px">Descrição</th>
+                                    <th>Qtde</th>
+                                    <th>Valor Unt.</th>
+                                    <th>Valor x Qtde</th>
+                                </tr>
+                            </thead>
+                            <tbody id="TabelaResultado">
+                                <tr id="primeiro-item">
+                                    <td class="info-escolha"> <input style="width:20px" type="checkbox"> </td>
+                                    <td class="info-id">1</td>
+                                    <td class="info-tipo">R</td>
+                                    <td class="info-descricao" name="info-descricao">Salário Recebido Total</td>
+                                    <td class="info-qtde">2</td>
+                                    <td class="info-valorUnt">600</td>
+                                    <td class="info-valorTotal">1200</td>
+                                </tr>
+                                <tr>
+                                    <td class="info-escolha"> <input style="width:20px" type="checkbox"> </td>
+                                    <td class="info-id">2</td>
+                                    <td class="info-tipo">D</td>
+                                    <td class="info-descricao">Carros de Viagem</td>
+                                    <td class="info-qtde">2</td>
+                                    <td class="info-valor_unt">115</td>
+                                    <td class="info-valor_total">230</td>
+                                </tr>
+                                <tr>
+                                    <td class="info-escolha"> <input style="width:20px" type="checkbox"> </td>
+                                    <td class="info-id">3</td>
+                                    <td class="info-tipo">R</td>
+                                    <td class="info-descricao">Serviço Extra</td>
+                                    <td class="info-qtde">1</td>
+                                    <td class="info-valor_unt">300</td>
+                                    <td class="info-valor_total">300</td>
+                                </tr>
+                                <tr>
+                                    <td class="info-escolha"> <input style="width:20px" type="checkbox"> </td>
+                                    <td class="info-id">4</td>
+                                    <td class="info-tipo">D</td>
+                                    <td class="info-descricao">Roupas</td>
+                                    <td class="info-qtde">2</td>
+                                    <td class="info-valor_unt">200</td>
+                                    <td class="info-valor_total">400</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+    <br />
+    <script src="../Js/meu_js.js"></script>
+
+</body>
+</html>

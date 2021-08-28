@@ -1,0 +1,124 @@
+﻿/*Parte Grupo_Campo*/
+
+fieldset {
+    border-width: 0px;
+}
+
+.grupo {
+    width: 80%;
+    display: inline-flex;
+    padding: 7px 0px;
+}
+.campo{
+    padding: 5px 5px;
+    margin: 3px 0;
+    border: 1px solid #040101;
+    border-radius: 7px;
+    font-size:15px;
+    background-color:#7cd789;
+    color:#040101;
+}
+.campoCheckbox {
+    padding: 5px 5px;
+    margin: 3px 0;
+    border: 1px solid #040101;
+    border-radius: 7px;
+    font-size: 15px;
+    background-color: #7cd789;
+    color: #040101;
+    width: 20px;
+}
+.Formulario {
+    width: 95%;
+    height: 100%;
+    margin: 0 auto;
+    text-align: left;
+    max-width: 900px;
+}
+
+.conteudo {
+    width: 95%;
+    height: 100%;
+    margin: 0 auto;
+    text-align: left;
+    max-width: 900px;
+}
+
+.Base_Field {
+    border-width: 2px;
+    border-style: groove;
+    border-color: #040101;
+}
+/* Fim Grupo_Campo --------*/
+
+
+/*Parte Table e elementos th td tr e etc..*/
+.tabela {
+    border-collapse: collapse;
+    margin-top: 1px;
+    table-layout: fixed;
+    border-spacing: 0px;
+}
+    .tabela td, th {
+        padding: 7px;
+        text-align: center;
+        border: 1px solid #ccc;
+    }
+
+    .tabela th {
+        /*Th é o cabeçalho*/
+        font-weight: bold;
+        background-color: #222222;
+        color: #ffffff;
+    }
+
+.item1 {
+    text-align: center;
+    width: 50px;
+    color: rgb(0, 0, 0);
+}
+
+
+/*Fim Tabela -------*/
+
+body {
+    font-size: 20px;
+}
+.Lbl1{
+    font-size:20px;
+    color:rgb(0, 0, 0);
+}
+
+#Titulo1 {
+    position:fixed;
+    top:-20px;
+    right:0px;
+    left:0px;
+    font-size:25px;
+    background-color: #232222;
+    color: #ffffff;
+    text-align: center;
+}
+#Selecao1 {
+    background-color: #075224;
+    color: #ffffff;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
+.botao1 {
+    border: solid 2px;
+    border-color:#100e0e;
+    margin-bottom: 1em;
+    padding: 0.2em 0.6em;
+    max-width: 98%;
+    font-size: 18px;
+    background-color: #367d4f;
+    color: #ffffff;
+    border-radius: 3px;
+}
+    .botao1:hover {
+        background: #313131;
+        box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
+        text-shadow: none;
+    }

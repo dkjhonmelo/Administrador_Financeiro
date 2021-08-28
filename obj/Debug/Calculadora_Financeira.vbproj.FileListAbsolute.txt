@@ -1,0 +1,214 @@
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.dll.config
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.pdb
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.xml
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csc.exe
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csc.exe.config
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csc.rsp
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csi.exe
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csi.exe.config
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csi.rsp
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.AppContext.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Console.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Net.Http.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\vbc.exe
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\vbc.exe.config
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\vbc.rsp
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbprojAssemblyReference.cache
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.Resources.resources
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbproj.GenerateResource.cache
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbproj.CoreCompileInputs.cache
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbproj.CopyComplete
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.dll
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.xml
+C:\Users\Jhon_Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.pdb
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.dll.config
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.pdb
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.xml
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csc.exe
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csc.exe.config
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csc.rsp
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csi.exe
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csi.exe.config
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csi.rsp
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.AppContext.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Console.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Net.Http.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\vbc.exe
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\vbc.exe.config
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\vbc.rsp
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbprojAssemblyReference.cache
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.Resources.resources
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbproj.GenerateResource.cache
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbproj.CoreCompileInputs.cache
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbproj.CopyComplete
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.xml
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - NovoLare\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.pdb
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.dll.config
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.pdb
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Calculadora_Pessoal.xml
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csc.exe
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csc.exe.config
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csc.rsp
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csi.exe
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csi.exe.config
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\csi.rsp
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Buffers.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Memory.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\vbc.exe
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\vbc.exe.config
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\vbc.rsp
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbproj.AssemblyReference.cache
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.Resources.resources
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbproj.GenerateResource.cache
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbproj.CoreCompileInputs.cache
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Financeira.vbproj.CopyComplete
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.dll
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.xml
+C:\Users\Jhon Melo\OneDrive - LBROS\Trabalho\1 - TI\Desenvolvimento\Calculadora_Financeira\obj\Debug\Calculadora_Pessoal.pdb
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\Calculadora_Pessoal.dll.config
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\Calculadora_Pessoal.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\Calculadora_Pessoal.pdb
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\Calculadora_Pessoal.xml
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\csc.exe
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\csc.exe.config
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\csc.rsp
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\csi.exe
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\csi.exe.config
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\csi.rsp
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\System.Buffers.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\System.Memory.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\vbc.exe
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\vbc.exe.config
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\vbc.rsp
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\obj\Debug\Calculadora_Financeira.vbproj.AssemblyReference.cache
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\obj\Debug\Calculadora_Pessoal.Resources.resources
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\obj\Debug\Calculadora_Financeira.vbproj.GenerateResource.cache
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\obj\Debug\Calculadora_Financeira.vbproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\obj\Debug\Calculadora_Financeira.vbproj.CopyComplete
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\obj\Debug\Calculadora_Pessoal.dll
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\obj\Debug\Calculadora_Pessoal.xml
+C:\Users\Jhon\Documents\ProjetosWork\ControleFinanceiro\obj\Debug\Calculadora_Pessoal.pdb
